@@ -1,2 +1,2 @@
 # kaggle
-Repos for kaggle competitions
+Repo for kaggle competitions
